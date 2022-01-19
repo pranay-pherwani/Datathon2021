@@ -1,2 +1,2 @@
 # Datathon2021
-Bayesian logistic regression model on real data
+We implement a Bayesian logistic regression model to investigate the relationship between how democratic a country is and how much the citizens of the country believe in democracy as suitable for their country. We also consider other predictor variables such as age, education, and monthly household income. In effect, we answer whether this relationship exists, how strong it is, and whether there are other factors present that may help predict a citizen’s belief in democracy. The data comes from the Asian Barometer, which is an applied research program on public opinion on political values, democracy, and governance around the region. 
